@@ -1,0 +1,18 @@
+export const newPickleData=[
+    {name:"Mambalam Iyer Achar 1",company:"Aachi",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"../screens2/images/pickle.png"},
+    {name:"Mambalam Iyer Achar 2",company:"Aachi",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"../../screens2/images/pickle.png"},
+    {name:"Mambalam Iyer Achar 3",company:"Aachi",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"../../screens2/images/pickle.png"},
+    {name:"Mambalam Iyer Achar 4",company:"Aachi",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"../../screens2/images/pickle.png"},
+    {name:"Mambalam Masala 1",company:"Aachi",type:"Masala",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Masala 2",company:"Aachi",type:"Masala",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Masala 3",company:"Aachi",type:"Masala",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Masala 4",company:"Aachi",type:"Masala",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Masala 5",company:"Aachi",type:"Masala",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Iyer Achar3",company:"Aachi",type:"Edible Oil",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Iyer Achar3",company:"Aachi",type:"Edible Oil",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Iyer Achar3",company:"Aachi",type:"Edible Oil",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Iyer Achar3",company:"Aachi",type:"Edible Oil",weigth:"300 gm",price:"50.60",imageUrl:"./images/pickle.png"},
+    {name:"Mambalam Iyer Achar4",company:"Aachi",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"./screens2/images/pickle.png"},
+    // {name:"Mambalam Iyer Achar5",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"./screens2/images/pickle.png"},
+    // {name:"Mambalam Iyer Achar6",type:"Pickles",weigth:"300 gm",price:"50.60",imageUrl:"./screens2/images/pickle.png"},
+]
